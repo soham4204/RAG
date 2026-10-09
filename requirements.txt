@@ -1,0 +1,9 @@
+fastapi>=0.115
+uvicorn>=0.32
+pydantic>=2
+numpy>=1.26
+fastembed>=0.4
+python-dotenv>=1.0
+google-genai>=1.51
+streamlit>=1.40
+requests>=2.32
